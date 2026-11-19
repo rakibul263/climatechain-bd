@@ -13,7 +13,7 @@ for the Surma–Kushiyara basin, Sylhet Division, Bangladesh.
 [![License](https://img.shields.io/badge/licence-MIT-94a3b8?style=flat-square)](LICENSE)
 
 > [!IMPORTANT]
-> **Research prototype — not an official flood-warning system.** ClimateChain BD was built
+> **Research prototype — this is not an official flood-warning system.** ClimateChain BD was built
 > for the IEEE ClimateChain Global Hackathon. Machine-readable daily flood ground truth and
 > real-time BWDB gauge APIs were unavailable as open REST services, so we implement a
 > transparent **rainfall-risk indicator** rather than fabricating flood labels or hydrology.
